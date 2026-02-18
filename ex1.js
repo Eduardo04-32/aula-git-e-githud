@@ -17,6 +17,7 @@ let entrada2 = Number(prompt("Digite o segundo numero: "))
 comparaNumeros(entrada1,entrada2)
 
 
+
 // selaaaaaaaaaaaaa
 
 console.log("BUENOSSSS DIASSSSS")
