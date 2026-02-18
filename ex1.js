@@ -15,3 +15,6 @@ let entrada1 = Number(prompt("Digite o primeiro numero:"))
 let entrada2 = Number(prompt("Digite o segundo numero: "))
 //chama a função passando os dois parametros
 comparaNumeros(entrada1,entrada2)
+
+
+// selaaaaaaaaaaaaa
