@@ -18,3 +18,6 @@ comparaNumeros(entrada1,entrada2)
 
 
 
+// selaaaaaaaaaaaaa
+
+console.log("BUENOSSSS DIASSSSS")
